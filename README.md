@@ -20,4 +20,4 @@ cargo run
 
 Congratulations, your Rust server is running!
 
-![Cringe!](https://i.ytimg.com/vi/J593E2VYvYQ/sddefault.jpg =250x250)
+![Cringe!](https://i.ytimg.com/vi/J593E2VYvYQ/sddefault.jpg | width=250)
